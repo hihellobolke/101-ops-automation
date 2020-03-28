@@ -5,31 +5,30 @@
 60-120 mins
 
 1. KWL chart (Know Wonder Learnt) chart
-2. Intro
-3. Guiding principles SRE/Ops
-4. Tools of our trades
-    - Core-utils
-    - N/W, tcpdump
-    - Web debug
-    - Monitoring tools
-
-5. Approach to Problem solution
-    - Why & how to solve problem?
-    - Best practices? Solution patterns
-    - Solving using programs
+1. Intro
+1. Guiding principles SRE/Ops
+1. Tools of our trades
+    1. Core-utils
+    1. N/W, tcpdump
+    1. Web debug
+    1. Monitoring tools
+1. Approach to Problem solution
+    1. Why & how to solve problem?
+    1. Best practices? Solution patterns
+    1. Solving using programs
     
 
 ### Second module
 30-60 mins
 
 1. Explore Bash 
-2. Coreutils, sed/awk/regex
-3. Linux utils
+1. Coreutils, sed/awk/regex
+1. Linux utils
 
 
 ### Third Module
 60-120 mins
 
 1. Explore Python basics 1
-2. Explore Python basics 2
-3. TBD
+1. Explore Python basics 2
+1. TBD
