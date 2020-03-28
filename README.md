@@ -2,7 +2,8 @@
 
 
 ### First module
-60-120 mins
+
+Start [here](day1/README.md)
 
 1. KWL chart (Know Wonder Learnt) chart
 1. Intro
